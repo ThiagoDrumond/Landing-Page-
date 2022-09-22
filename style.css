@@ -137,3 +137,35 @@ button{
     font-size: 25px;
     font-weight: bold;
 }
+.ad{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ada{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    padding: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+    width: 800px;
+    border-radius: 10px;
+    margin: 50px;
+}
+.adt{
+    font-weight: bolder;
+    font-size: large;
+    color:#f9faf8;
+}
+.ads{
+    color: #f9faf8;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 25px;
+}
